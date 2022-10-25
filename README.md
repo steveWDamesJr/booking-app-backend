@@ -20,7 +20,7 @@ Our group consists of 4 members and we are:
 
 ## Link to REACT FRONTEND
 
-[REACT FRONTEND](https://github.com/Melaku05/booking-app-frontend)
+[REACT FRONTEND](https://github.com/steveWDamesJr/booking-app-frontend)
 
 ## Built With
 
